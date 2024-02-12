@@ -107,7 +107,7 @@ const MainComponent = ({
             style={{
               "--border": companyDatabase.border,
               "--color": companyDatabase.headingColor,
-              "--bg": companyDatabase.bg,
+              "--bg": companyDatabase.background,
             }}
           >
             {" "}
